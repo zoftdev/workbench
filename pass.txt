@@ -1,0 +1,42 @@
+=============
+vCenter 
+-------------
+https://vc01.nx.local/ 
+
+username : administrator@nx.local 
+
+password : VMware1! 
+
+
+https://vc01.nx.local/ui/app/devcenter/api-explorer
+
+
+=============
+CRE
+-------------
+URL : https://console.cloud.trueidc.com/
+User : uatcre@ascendcorp.com
+Pw : P6MXa7_PkM]TlRgS2
+2FA Verification Code : 8888
+
+unimanager
+
+Windows Jumphost IP Remote Desktop: 10.80.13.201
+username : \nattawat.ujj
+password: QvguXsOrCWSnZCD@2
+
+apsar url : https://one.console.asr.clouds.trueidc.com/
+apsara user :skuadmin03
+apsara admin : Admin@3456789
+
+=============
+POC
+-------------
+https://auth.huaweicloud.com/authui/login.html?id=professionalservice_dom#/login
+thisadee.pre
+w,j.shg-hk132
+
+
+=================
+
+
